@@ -1,0 +1,52 @@
+{
+  "signatures": [
+    {
+      "keyid": "94c1c4212df47201021572f700fe3b60448ecad1c9a4b87597b48095123a6c0a",
+      "sig": "25f25fc53146a0ecf484d8c1f23c658f64b46968f79a3b024b16c61c98d3a58f9f556c4b201408d4f13f8726a91927ccec2371d1ede1a71ee9bf359d88b8b501"
+    }
+  ],
+  "signed": {
+    "_type": "targets",
+    "expires": "2100-01-01T00:00:00Z",
+    "spec_version": "1.0",
+    "targets": {
+      "0": {
+        "hashes": {
+          "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+        },
+        "length": 1
+      },
+      "1": {
+        "hashes": {
+          "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+        },
+        "length": 1
+      },
+      "2": {
+        "hashes": {
+          "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+        },
+        "length": 1
+      },
+      "3": {
+        "hashes": {
+          "sha256": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+        },
+        "length": 1
+      },
+      "4": {
+        "hashes": {
+          "sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+        },
+        "length": 1
+      },
+      "5": {
+        "hashes": {
+          "sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+        },
+        "length": 1
+      }
+    },
+    "version": 6
+  }
+}
